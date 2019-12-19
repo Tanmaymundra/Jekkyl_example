@@ -191,6 +191,9 @@ exclude:
   - LICENSE
   - README.md
   - Vagrantfile
+  - FUNDING.yml
+  - issue_template.md
+  - pull_request_template.md
 
 # prose.io config
 prose:
