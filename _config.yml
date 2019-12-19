@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Data Encryption & Network Security
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: This Blog talks about the basic encryption used in communication system. Also im learning how to use jekyll and host it on github page
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -74,16 +74,12 @@ social-network-links:
   twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
-#  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
